@@ -4,7 +4,7 @@ Um aplicativo em [React](https://reactjs.org/) para buscar repositórios no GitH
 
 ## :rocket: Demo
 
-<img src="./src/assets/demo.png"  alt="Demo"/>
+<img src="./src/assets/images/demo.png"  alt="Demo"/>
 
 ## :computer: Setup
 
